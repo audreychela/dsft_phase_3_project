@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Colab Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore the unwanted notebook
+Phase_3_project.ipynb
